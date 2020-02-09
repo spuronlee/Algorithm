@@ -1,1 +1,3 @@
-# Algorithm-
+# Algorithm
+
+## Dynamic Programming
