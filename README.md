@@ -12,6 +12,6 @@ Input: 矩阵个数n, 矩阵的维数矩阵 int n = 6; int p[n+1] = {50, 10, 40,
 
 Output: 矩阵加括号方式 ((A1(A2(A3A4)))(A5A6))
 
-Function: string MarticChain(int * p, int n); code
+Function: string MarticChain(int * p, int n); [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_1_MatrixMultiplication.cpp)
 
 
