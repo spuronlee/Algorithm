@@ -1,5 +1,10 @@
 # Algorithm
 
+## Divide and Conquer
+
+### 1. Binary Search(二分搜索)
+
+### 2. 循环赛日程表
 
 
 ## Dynamic Programming
@@ -17,3 +22,4 @@
 `Function`: string MarticChain(int * p, int n); [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_1_MatrixMultiplication.cpp)
 
 
+## Greedy
