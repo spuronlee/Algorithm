@@ -9,7 +9,7 @@ This repo displays common algorithms, which are classified according to differen
 
 ### 1. Binary Search(二分搜索)
 
-[code](https://github.com/spuronlee/Algorithm/blob/master/Divide%20and%20Conquer/DC_1_BinarySearch.cpp)，解析
+[code](https://github.com/spuronlee/Algorithm/blob/master/Divide%20and%20Conquer/DC_1_BinarySearch.cpp)，[解析](http://www.cgz.net.cn/posts/c9bcb73c.html)
 
 ### 2. Round Robin Schedule(循环赛日程表)
 
@@ -19,7 +19,7 @@ This repo displays common algorithms, which are classified according to differen
 (3)循环赛在n-1天内结束.  
 请按照此要求将比赛日程表设计成有n行和n-1列的日程表，在表中第i行第j列填入第i个选手在第j天所遇到的对手，其中1<=i<=n,1<=j<= n-1.  
 
-[code](https://github.com/spuronlee/Algorithm/blob/master/Divide%20and%20Conquer/DC_2_RoundRobinSchedule.cpp)，解析
+[code](https://github.com/spuronlee/Algorithm/blob/master/Divide%20and%20Conquer/DC_2_RoundRobinSchedule.cpp)，[解析](http://www.cgz.net.cn/posts/c9bcb73c.html)
 
 ## (II) Dynamic Programming
 
@@ -35,6 +35,13 @@ This repo displays common algorithms, which are classified according to differen
 
 `Function`: string MarticChain(int * p, int n);
 
-[code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_1_MatrixMultiplication.cpp)，解析
+[code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_1_MatrixMultiplication.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
+
+### 2. Longest Common Subsequence, LCS(最长公共子序列)
+
+
+### 3. Maximum Subarray(最大子序和)
+
+### 4. Maximum Submatrix(最大子矩阵和)
 
 ## (III) Greedy
