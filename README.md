@@ -39,9 +39,14 @@ This repo displays common algorithms, which are classified according to differen
 
 ### 2. Longest Common Subsequence, LCS(最长公共子序列)
 
+[code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_2_LCS.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
 
 ### 3. Maximum Subarray(最大子序和)
 
+[code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_3_MaxSubArray.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
+
 ### 4. Maximum Submatrix(最大子矩阵和)
+
+[code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_4_MaxSubMatrix.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
 
 ## (III) Greedy
