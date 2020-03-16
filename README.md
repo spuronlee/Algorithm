@@ -1,10 +1,20 @@
 # Algorithm
 
+常见算法分析，按照不同的思想进行分类，包含完整代码(C++)，更多解析见我的个人博客。
+This repo display common algorithms, whic are classified according to different ideas, including complete code(C++).More analysis can refer to my personal blog.
+----------
+
 ## Divide and Conquer
 
 ### 1. Binary Search(二分搜索)
 
-### 2. 循环赛日程表
+### 2. Round Robin Schedule(循环赛日程表)
+
+设有$n=2^{k}$个运动员要进行网球循环赛，现在设计一个满足以下要求的比赛日程表：
+(1)每个选手必须与其他$n-1$个选手各比赛一次;
+(2)每个选手一天只能参赛一次;
+(3)循环赛在$n-1$天内结束.
+请按照此要求将比赛日程表设计成有$n$行和$n-1$列的日程表，在表中第$i$行第$j$列填入第$i$个选手在第$j$天所遇到的对手，其中$1 \leq i \leq n,1 \leq j \leq n-1$.
 
 
 ## Dynamic Programming
