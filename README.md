@@ -49,8 +49,9 @@ This repo displays common algorithms, which are classified according to differen
 
 给定一个整数数组nums，找到一个具有最大和的连续子数组（子数组最少包含一个元素，返回其最大和。
 
-`Input`: [-2,1,-3,4,-1,2,1,-5,4],
-`Output`: 6  (解释: 连续子数组 [4,-1,2,1] 的和最大，为6)
+`Input`: [-2,1,-3,4,-1,2,1,-5,4]
+
+`Output`: 6  (解释: 连续子数组[4,-1,2,1]的和最大，为6)
 
 [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_3_MaxSubArray.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
 
