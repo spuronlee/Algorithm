@@ -39,7 +39,7 @@ This repo displays common algorithms, which are classified according to differen
 
 ### 2. Longest Common Subsequence, LCS(最长公共子序列)
 
-若给定序列X={x1,x2,…,xm}，则另一序列Z={z1,z2,…,zk}，是X的子序列是指存在一个严格递增下标序列{i1,i2,…,ik}使得对于所有j=1,2,…,k有：zj=xij。例如，序列Z={B，C，D，B}是序列X={A，B，C，B，D，A，B}的子序列，相应的递增下标序列为{2，3，5，7}。给定2个序列X和Y，当另一序列Z既是X的子序列又是Y的子序列时，称Z是序列X和Y的公共子序列。
+若给定序列X={x1,x2,…,xm}，则另一序列Z={z1,z2,…,zk}是X的子序列是指存在一个严格递增下标序列{i1,i2,…,ik}使得对于所有j=1,2,…,k有：zj=xij。例如，序列Z={B，C，D，B}是序列X={A，B，C，B，D，A，B}的子序列，相应的递增下标序列为{2，3，5，7}。给定2个序列X和Y，当另一序列Z既是X的子序列又是Y的子序列时，称Z是序列X和Y的公共子序列。
 
 给定2个序列X={x1,x2,…,xm}和Y={y1,y2,…,yn}，找出X和Y的最长公共子序列。 
 
@@ -47,9 +47,18 @@ This repo displays common algorithms, which are classified according to differen
 
 ### 3. Maximum Subarray(最大子序和)
 
+给定一个整数数组nums，找到一个具有最大和的连续子数组（子数组最少包含一个元素，返回其最大和。
+
+`Input`: [-2,1,-3,4,-1,2,1,-5,4],
+`Output`: 6  (解释: 连续子数组 [4,-1,2,1] 的和最大，为6)
+
 [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_3_MaxSubArray.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
 
 ### 4. Maximum Submatrix(最大子矩阵和)
+
+给定一个正整数和负整数组成的 N × M 矩阵，编写代码找出元素总和最大的子矩阵。
+
+返回一个数组 [r1, c1, r2, c2]，其中 r1, c1 分别代表子矩阵左上角的行号和列号，r2, c2 分别代表右下角的行号和列号。若有多个满足条件的子矩阵，返回任意一个均可。
 
 [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_4_MaxSubMatrix.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
 
