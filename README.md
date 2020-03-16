@@ -2,14 +2,14 @@
 
 常见算法分析，按照不同的思想进行分类，包含完整代码(C++)，更多解析见我的[个人博客](http://www.cgz.net.cn/)。
 
-This repo display common algorithms, whic are classified according to different ideas, including complete code(C++).More analysis can refer to my [Personal Blog](http://www.cgz.net.cn/).
+This repo displays common algorithms, which are classified according to different ideas, including complete code(C++). More analysis can refer to my [Personal Blog](http://www.cgz.net.cn/).
 
 
-## (I)Divide and Conquer
+## (I) Divide and Conquer
 
 ### 1. Binary Search(二分搜索)
 
-代码，解析
+[code](https://github.com/spuronlee/Algorithm/blob/master/Divide%20and%20Conquer/DC_1_BinarySearch.cpp)，解析
 
 ### 2. Round Robin Schedule(循环赛日程表)
 
@@ -19,9 +19,9 @@ This repo display common algorithms, whic are classified according to different 
 (3)循环赛在n-1天内结束.  
 请按照此要求将比赛日程表设计成有n行和n-1列的日程表，在表中第i行第j列填入第i个选手在第j天所遇到的对手，其中1<=i<=n,1<=j<= n-1.  
 
-代码，解析
+[code](https://github.com/spuronlee/Algorithm/blob/master/Divide%20and%20Conquer/DC_2_RoundRobinSchedule.cpp)，解析
 
-## (II)Dynamic Programming
+## (II) Dynamic Programming
 
 ### 1. Matrix-chain Multiplication(矩阵连乘)
 
@@ -37,4 +37,4 @@ This repo display common algorithms, whic are classified according to different 
 
 [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_1_MatrixMultiplication.cpp)，解析
 
-## (III)Greedy
+## (III) Greedy
