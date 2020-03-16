@@ -39,6 +39,10 @@ This repo displays common algorithms, which are classified according to differen
 
 ### 2. Longest Common Subsequence, LCS(最长公共子序列)
 
+若给定序列X={x1,x2,…,xm}，则另一序列Z={z1,z2,…,zk}，是X的子序列是指存在一个严格递增下标序列{i1,i2,…,ik}使得对于所有j=1,2,…,k有：zj=xij。例如，序列Z={B，C，D，B}是序列X={A，B，C，B，D，A，B}的子序列，相应的递增下标序列为{2，3，5，7}。给定2个序列X和Y，当另一序列Z既是X的子序列又是Y的子序列时，称Z是序列X和Y的公共子序列。
+
+给定2个序列X={x1,x2,…,xm}和Y={y1,y2,…,yn}，找出X和Y的最长公共子序列。 
+
 [code](https://github.com/spuronlee/Algorithm/blob/master/Dynamic%20Programming/DP_2_LCS.cpp)，[解析](http://www.cgz.net.cn/posts/71b19194.html)
 
 ### 3. Maximum Subarray(最大子序和)
