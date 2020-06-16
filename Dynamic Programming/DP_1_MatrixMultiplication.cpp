@@ -76,11 +76,10 @@ int main()
     }
 
     //Method 1: recursion
-    cout<<RecursionMM(1, num, p)<<endl;  //0.111 s
+    cout<<RecursionMM(1, num, p)<<endl;  
 
     //Method 2: dynamic programming
-    cout<<DP(p, num)<<endl;  //0.128 s
-
+    cout<<DP(p, num)<<endl;  
 
     //Method 3: memorandum
     vector<vector<int> > m(num+1, vector<int>(num+1));
