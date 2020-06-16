@@ -65,7 +65,7 @@ int main()
 {
     int num ;
     vector<int> p;
-     p.push_back(-1);
+    p.push_back(-1);
     cout << "Input the number of matrices : " << endl;
     cin>>num;
     cout << "Input the dimensions of each matrix: " << endl;
